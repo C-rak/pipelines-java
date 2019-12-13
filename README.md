@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/raku31196rc/Parts%20Unlimited/_apis/build/status/C-rak.pipelines-java?branchName=master)](https://dev.azure.com/raku31196rc/Parts%20Unlimited/_build/latest?definitionId=5&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
